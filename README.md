@@ -4,4 +4,4 @@ This is project for practice purpose. Please do not push any pull request. You c
 
 ### Want to learn Programming Language?
 
-Connect me on [abhishek.dhapare@gmail.com] abhishek.dhapare@gmail.com
+Connect me on abhishek.dhapare@gmail.com
